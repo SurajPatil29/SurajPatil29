@@ -1,5 +1,9 @@
+<img src="https://github.com/SurajPatil29/SurajPatil29/assets/148176329/46d0505c-a63f-4526-9f97-ec838ebe5a9c" style="text-align: center" >
 <h1 align="center">Hi 👋, I'm Suraj Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="codingGif" width="400px" src="https://github.com/SurajPatil29/SurajPatil29/assets/148176329/0c9ac486-6374-4e6f-90d5-7b9d1e9f8378">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpatil29&label=Profile%20views&color=0e75b6&style=flat" alt="surajpatil29" /> </p>
 
 - 🔭 I’m currently working on [Sephora web page front-end cloning](https://github.com/SurajPatil29/Sephora_Project.git)
 
@@ -17,6 +21,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajpatil29&show_icons=true&locale=en&layout=compact" alt="surajpatil29" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajpatil29&show_icons=true&locale=en&layout=compact" alt="surajpatil29" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajpatil29&show_icons=true&locale=en" alt="surajpatil29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajpatil29&" alt="surajpatil29" /></p>
