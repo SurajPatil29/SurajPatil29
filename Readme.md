@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **👨‍💻Currently pursuing 'Prepleaf by Masai' Full-Stack Course. Now I am complite Front-end**
 
-- 👨‍💻 All of my projects are available at [.](.)
+- 👨‍💻 All of my projects are available at [Portfolio](https://funny-centaur-2823b6.netlify.app/)
 
 - 📫 How to reach me **surajrpatil2907@gmail.com**
 
