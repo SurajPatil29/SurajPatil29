@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpatil29&label=Profile%20views&color=0e75b6&style=flat" alt="surajpatil29" /> </p>
 
-- 🔭 I’m currently working on [Sephora web page front-end cloning](https://github.com/SurajPatil29/Sephora_Project.git)
+- 🔭 I’m currently working on [Sephora web page front-end cloning](https://relaxed-kitten-32de55.netlify.app/)
 
 - 🌱 I’m currently learning **👨‍💻Currently pursuing 'Prepleaf by Masai' Full-Stack Course. Now I am complite Front-end**
 
