@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [Sephora web page front-end cloning](https://relaxed-kitten-32de55.netlify.app/)
 
+- 🔭 My last project [Superhero_Resume](https://extraordinary-stroopwafel-672004.netlify.app/)
+
 - 🌱 I’m currently learning **👨‍💻Currently pursuing 'Prepleaf by Masai' Full-Stack Course. Now I am complite Front-end**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://funny-centaur-2823b6.netlify.app/)
