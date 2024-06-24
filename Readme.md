@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpatil29&label=Profile%20views&color=0e75b6&style=flat" alt="surajpatil29" /> </p>
 
-- 🔭 I’m currently working on [Sephora web page front-end cloning](https://relaxed-kitten-32de55.netlify.app/)
+- 🔭 I’m completely working on [SkinStore web page front-end cloning](https://skinstore-gamma.vercel.app/)
 
-- 🔭 My last project [Superhero_Resume](https://extraordinary-stroopwafel-672004.netlify.app/)
+- 🔭 My last project [Sephora web page front-end cloning](https://sephora-project-sage.vercel.app/)
 
-- 🌱 I’m currently learning **👨‍💻Currently pursuing 'Prepleaf by Masai' Full-Stack Course. Now I am complite Front-end**
+- 🌱 I’m currently learning **👨‍💻Currently pursuing the 'Prepleaf by Masai' Full-Stack Course. Now I am complete Front-end**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://funny-centaur-2823b6.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio]()
 
 - 📫 How to reach me **surajrpatil0729@gmail.com**
 
