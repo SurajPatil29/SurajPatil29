@@ -1,7 +1,12 @@
-<img src="https://github.com/SurajPatil29/SurajPatil29/assets/148176329/46d0505c-a63f-4526-9f97-ec838ebe5a9c" style="text-align: center" >
+<img src="https://github.com/user-attachments/assets/bdd36b3a-b09e-4326-b823-f9026d1b54ea" style="text-align: center" >
 <h1 align="center">Hi 👋, I'm Suraj Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="codingGif" width="400px" src="https://github.com/SurajPatil29/SurajPatil29/assets/148176329/0c9ac486-6374-4e6f-90d5-7b9d1e9f8378">
+
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpatil29&label=Profile%20views&color=0e75b6&style=flat" alt="surajpatil29" /> </p>
 
