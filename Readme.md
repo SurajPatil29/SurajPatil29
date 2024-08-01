@@ -7,7 +7,7 @@
 
 💡 Constantly learning and honing skills through hands-on projects, eager to bring fresh perspectives to the tech industry
 </h3>
-<img align="right" alt="codingGif" width="400px" src="https://github.com/SurajPatil29/SurajPatil29/assets/148176329/0c9ac486-6374-4e6f-90d5-7b9d1e9f8378">
+<img align="right" alt="codingGif" width="400px" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 
 
